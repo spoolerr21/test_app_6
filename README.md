@@ -5,7 +5,6 @@ application up and running.
 
 First Test repo on the Complete Ruby on Rails Developer by Lee Yalkapov
 
-
 Things you may want to cover:
 
 * Ruby version
